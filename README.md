@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🌟 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,git,github,java,python,cpp,cs)](#)
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
