@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+Create+Something+Awesome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+Create+Something+Awesome!)
 
 <div style="position: relative; width: 100%; height: 100vh; overflow: hidden;">
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" style="position: absolute; top: 50%; left: 50%; width: 100vw; height: auto; transform: translate(-50%, -50%)"/>
 </div>
 
 ## 🌟 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,git,github,java,python,cpp,cs)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,git,github,java,python,cpp,cs)
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=onedark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akuadre&show_icons=true&theme=onedark)
 
