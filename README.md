@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)](#)
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub!;Let's+Create+Something+Awesome!)](https://git.io/typing-svg)
@@ -29,3 +28,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)](#)
