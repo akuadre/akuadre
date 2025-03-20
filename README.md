@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siegrin&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siegrin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akuadre&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" />
 </p>
