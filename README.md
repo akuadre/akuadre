@@ -29,5 +29,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)](#)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akuadre&show_icons=true&theme=highcontrast)
+
+<p>
+</p>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" /> -->
