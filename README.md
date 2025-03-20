@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)](#)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akuadre&layout=compact&theme=radical" alt="Top Languages" />
