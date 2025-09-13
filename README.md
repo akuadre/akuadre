@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center" style="display: flex; justify-content: center;">
+    <img align="center" src="./public/banner.jpg" alt="akuadre header" style="width: 100%; height: auto">
+</div>
 
 ## 🌟 My Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,git,github,java,python,cpp,cs)
