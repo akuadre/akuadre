@@ -1,6 +1,10 @@
 <!-- Banner -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/akuadre/akuadre/blob/main/public/banner.jpeg?raw=true" alt="akuadre banner" style="width: 100%; border-radius: 12px;" />
+</div> -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akuadre/akuadre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
@@ -48,13 +52,6 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
----
-
-## 🐍 Animasi Kontribusi GitHub
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akuadre/akuadre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
