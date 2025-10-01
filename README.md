@@ -54,4 +54,6 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 
 
 ## ⏳ Code Activity
-<!-- waka -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
