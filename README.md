@@ -1,26 +1,61 @@
-<!--
-the changes is here
-**akuadre/akuadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center" style="display: flex; justify-content: center;">
-    <img align="center" src="./public/banner.jpeg" alt="akuadre header" style="width: 100%; height: auto">
+<!-- Banner -->
+<div align="center">
+  <img src="https://github.com/akuadre/akuadre/blob/main/public/banner.jpeg?raw=true" alt="akuadre banner" style="width: 100%; border-radius: 12px;" />
 </div>
 
-## 🌟 My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,git,github,java,python,cpp,cs)
+---
 
-## 📊 GitHub Stats & Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=monokai-metallian&border_radius=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=compact&theme=onedark)
+## 👋 Hey, I'm Adre ✨
+Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.  
+
+🌱 Saat ini sedang mendalami **React (Frontend)** dan **Laravel (Backend)**.  
+🚀 Suka bereksperimen dengan **Tailwind CSS, AOS,** dan **Framer Motion**.  
+
+---
+
+## 🔗 Connect With Me
+<div align="center">
+  <a href="mailto:adrefocus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/akuadre">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,git,github,java,python,cpp,cs,mysql,react,nodejs&theme=dark" alt="My Skills"/>
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=akuadre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="akuadre's GitHub stats" />
+
+<!-- Top Langs -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Animasi Kontribusi GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akuadre/akuadre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## ⏳ Aktivitas Koding (via WakaTime)
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will be automatically inserted here -->
+<!--END_SECTION:waka-->
