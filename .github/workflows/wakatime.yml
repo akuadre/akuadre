@@ -19,3 +19,4 @@ jobs:
           SHOW_EDITORS: "true"
           SHOW_PROJECTS: "true"
           SHOW_DAYS_OF_WEEK: "true"
+          SECTION_NAME: "waka"   # 👈 penting ini
