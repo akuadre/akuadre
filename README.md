@@ -19,7 +19,6 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 🌱 Saat ini sedang mendalami **React (Frontend)** dan **Laravel (Backend)**.  
 🚀 Suka bereksperimen dengan **Tailwind CSS, AOS,** dan **Framer Motion**.  
 
----
 
 ## 🔗 Connect With Me
 <div align="center">
@@ -31,7 +30,6 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
   </a>
 </div>
 
----
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
@@ -54,9 +52,8 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 
 </div>
 
----
 
-## ⏳ Activity
+## ⏳ Code Activity
 <!--START_SECTION:waka-->
 <!-- WakaTime stats will be automatically inserted here -->
 <!--END_SECTION:waka-->
