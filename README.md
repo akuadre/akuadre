@@ -56,7 +56,7 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 
 ---
 
-## ⏳ Aktivitas Koding (via WakaTime)
+## ⏳ Activity
 <!--START_SECTION:waka-->
 <!-- WakaTime stats will be automatically inserted here -->
 <!--END_SECTION:waka-->
