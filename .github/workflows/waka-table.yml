@@ -23,7 +23,7 @@ jobs:
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
           COMMIT_MESSAGE: "chore: update WakaTime stats (table)"
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: akuadre
           COMMITTER_EMAIL: adrefocus@gmail.com
