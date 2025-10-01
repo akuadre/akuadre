@@ -3,6 +3,10 @@
   <img src="https://github.com/akuadre/akuadre/blob/main/public/banner.jpeg?raw=true" alt="akuadre banner" style="width: 100%; border-radius: 12px;" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akuadre&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 👋 Hey, I'm Adre ✨

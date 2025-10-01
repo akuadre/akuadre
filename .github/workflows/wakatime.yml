@@ -1,9 +1,14 @@
 name: Waka Readme
 
 on:
+  # Jalan setiap jam 12 malam WIB (17:00 UTC)
   schedule:
-    - cron: '0 17 * * *'   # Jam 12 malam WIB
+    - cron: "0 17 * * *"
+  # Bisa dijalankan manual
   workflow_dispatch:
+
+permissions:
+  contents: write   # supaya bisa update README
 
 jobs:
   update-readme:
