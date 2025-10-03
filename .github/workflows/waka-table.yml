@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # wajib
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # Personal Access Token
           SHOW_TITLE: true
-          SECTION_NAME: waka
+          SECTION_NAME: waka_table
           TIME_RANGE: all_time # bisa all_time, last_7_days, last_30_days
           LANG_COUNT: 5
           SHOW_TIME: true
