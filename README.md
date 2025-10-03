@@ -66,3 +66,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:waka_table-->
+<!--END_SECTION:waka_table-->
