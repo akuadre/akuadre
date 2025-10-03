@@ -2,7 +2,6 @@ name: Waka Readme Table
 
 on:
   schedule:
-    # jalan tiap hari jam 12 malam UTC (07.00 WIB)
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -14,10 +13,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # wajib
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Personal Access Token
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          SECTION_NAME: waka_table
-          TIME_RANGE: all_time # bisa all_time, last_7_days, last_30_days
+          SECTION_NAME: wakaTable
+          TIME_RANGE: all_time
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true

@@ -71,5 +71,5 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka_table-->
-<!--END_SECTION:waka_table-->
+<!--START_SECTION:wakaTable-->
+<!--END_SECTION:wakaTable-->
