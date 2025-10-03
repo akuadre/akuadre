@@ -70,19 +70,3 @@ Git          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--START_SECTION:wakaTable-->
-
-```txt
-From: 30 September 2025 - To: 02 October 2025
-
-Total Time: 1 hr 34 mins
-
-JavaScript   39 mins         ██████████▓░░░░░░░░░░░░░░   42.20 %
-YAML         21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Markdown     19 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
-PHP          13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
-<!--END_SECTION:wakaTable-->
