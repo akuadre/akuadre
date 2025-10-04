@@ -19,7 +19,7 @@ A student and junior *software engineer* from **Indonesia**.
 🌱 Currently learning **React (Frontend)** and **Laravel (Backend**).  
 🚀 Love playing around with **Tailwind CSS, AOS,** and **Framer Motion**.  
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect
 <div align="center">
   <a href="mailto:adrefocus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -28,6 +28,28 @@ A student and junior *software engineer* from **Indonesia**.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+<div align="center">
+  <a href="https://instagram.com/akuadre">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/adrenalin-muhammad-dewangga-7b6793316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- <a href="https://discord.gg/invitecode">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a> -->
+  <a href="https://youtube.com/@akuadre">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://adre.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:adrefocus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
 
 
 ## 🛠️ Tech Stack & Skills
