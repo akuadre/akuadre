@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Readme 2
 
 on:
   # for manual workflow trigger
@@ -22,8 +22,8 @@ jobs:
           REPOSITORY: akuadre/akuadre # optional
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          SECTION_NAME: waka2 # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: ruby # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 5 # optional
