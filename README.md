@@ -16,8 +16,8 @@
 ## 👋 Hey, I'm Adre ✨
 A student and junior *software engineer* from **Indonesia**.
 
-🌱 Currently learning **React (Frontend)** and **Laravel (Backend**).
-🚀 Love playing around with **Tailwind CSS, AOS,** and **Framer Motion**.
+🌱 Currently learning **React (Frontend)** and **Laravel (Backend**).  
+🚀 Love playing around with **Tailwind CSS, AOS,** and **Framer Motion**.  
 
 ## 🔗 Connect With Me
 <div align="center">
@@ -55,16 +55,4 @@ A student and junior *software engineer* from **Indonesia**.
 ## ⏳ Code Activity
 
 <!--START_SECTION:waka-->
-
-```ruby
-From: 30 September 2025 - To: 03 October 2025
-
-Total Time: 3 hrs 2 mins
-
-JavaScript   1 hr 25 mins    ███████████▓░░░░░░░░░░░░░   47.14 %
-Markdown     36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-PHP          25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-```
-
 <!--END_SECTION:waka-->
