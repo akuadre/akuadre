@@ -57,7 +57,7 @@ Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.
 
 <!--START_SECTION:waka-->
 
-```ini
+```python
 From: 30 September 2025 - To: 03 October 2025
 
 Total Time: 3 hrs 2 mins
