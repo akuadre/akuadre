@@ -14,11 +14,10 @@
 ---
 
 ## 👋 Hey, I'm Adre ✨
-Seorang pelajar & junior *software engineer* dari 🇮🇩 **Indonesia**.  
+A student and junior *software engineer* from **Indonesia**.
 
-🌱 Saat ini sedang mendalami **React (Frontend)** dan **Laravel (Backend)**.  
-🚀 Suka bereksperimen dengan **Tailwind CSS, AOS,** dan **Framer Motion**.  
-
+🌱 Currently learning **React (Frontend)** and **Laravel (Backend**).
+🚀 Love playing around with **Tailwind CSS, AOS,** and **Framer Motion**.
 
 ## 🔗 Connect With Me
 <div align="center">
