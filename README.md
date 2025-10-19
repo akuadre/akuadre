@@ -45,39 +45,27 @@ A student and junior *software engineer* from **Indonesia**.
 
 ## 🛠️ Tech Stack & Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,git,github,java,python,cpp,cs,mysql,react,nodejs&theme=dark" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,git,github,java,python,cpp,cs,mysql,react,laravel&theme=dark" alt="My Skills"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
-<div align="center">
+<!-- ## 📊 GitHub Stats & Activity -->
+<!-- <div align="center"> -->
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=akuadre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="akuadre's GitHub stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=akuadre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="akuadre's GitHub stats" /> -->
 
 <!-- Top Langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuadre&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=akuadre&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
 
-</div>
+<!-- </div> -->
 
 
 ## ⏳ Code Activity
 
 <!--START_SECTION:waka-->
-
-```ruby
-From: 30 September 2025 - To: 17 October 2025
-
-Total Time: 20 hrs 30 mins
-
-JavaScript       8 hrs 35 mins   ██████████▒░░░░░░░░░░░░░░   41.79 %
-PHP              8 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.52 %
-Blade Template   1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Markdown         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-```
-
 <!--END_SECTION:waka-->
