@@ -70,15 +70,15 @@ A student and junior *software engineer* from **Indonesia**.
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 30 September 2025 - To: 16 January 2026
+From: 30 September 2025 - To: 17 January 2026
 
-Total Time: 101 hrs 6 mins
+Total Time: 101 hrs 18 mins
 
-JavaScript       59 hrs 11 mins  ██████████████▓░░░░░░░░░░   58.43 %
-PHP              29 hrs 8 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-TypeScript       4 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Bash             2 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Blade Template   2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript       59 hrs 11 mins  ██████████████▓░░░░░░░░░░   58.31 %
+PHP              29 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   28.83 %
+TypeScript       4 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Bash             2 hrs 22 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Blade Template   2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
