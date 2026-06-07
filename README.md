@@ -70,7 +70,7 @@ A student and junior *software engineer* from **Indonesia**.
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 30 September 2025 - To: 04 June 2026
+From: 30 September 2025 - To: 06 June 2026
 
 Total Time: 298 hrs 14 mins
 
